@@ -20,6 +20,8 @@
       <li><b>Digital Solutions:</b> <br>We offer a range of digital solutions, including website development, social media management, and online advertising, to help businesses expand their reach in the market.</li>
       <li><b>Solutions for Ideas:</b> <br>We help businesses turn their ideas into reality by providing innovative solutions and expert guidance throughout the process.</li>
       <li><b>Advertisements:</b> <br>Our advertising services are designed to help businesses increase their visibility and attract new customers.</li>
+      <li><b>Growth Marketing:</b> <br>We provide marketing strategies to help businesses grow and reach their target audience.</li>
+      <li><b>Fund Raising:</b> <br>Our team helps businesses raise funds through various channels, including venture capital and crowdfunding.</li>
     </ul>
   </div>
   <br>
