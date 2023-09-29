@@ -15,11 +15,11 @@
 
   <div align="left">
     <ul>
-      <li>Business Consulting: We work with businesses to help them identify areas of improvement and develop customized strategies to achieve their goals.</li>
-      <li>Technology Services: Our team provides technology solutions to help businesses streamline their operations, increase efficiency, and improve their bottom line.</li>
-      <li>Digital Solutions: We offer a range of digital solutions, including website development, social media management, and online advertising, to help businesses expand their reach in the market.</li>
-      <li>Solutions for Ideas: We help businesses turn their ideas into reality by providing innovative solutions and expert guidance throughout the process.</li>
-      <li>Advertisements: Our advertising services are designed to help businesses increase their visibility and attract new customers.</li>
+      <li><b>Business Consulting:</b> <br>We work with businesses to help them identify areas of improvement and develop customized strategies to achieve their goals.</li>
+      <li><b>Technology Services:</b> <br>Our team provides technology solutions to help businesses streamline their operations, increase efficiency, and improve their bottom line.</li>
+      <li><b>Digital Solutions:</b> <br>We offer a range of digital solutions, including website development, social media management, and online advertising, to help businesses expand their reach in the market.</li>
+      <li><b>Solutions for Ideas:</b> <br>We help businesses turn their ideas into reality by providing innovative solutions and expert guidance throughout the process.</li>
+      <li><b>Advertisements:</b> <br>Our advertising services are designed to help businesses increase their visibility and attract new customers.</li>
     </ul>
   </div>
   <br>
